@@ -73,5 +73,5 @@ I’m always open to collaboration, feedback, and new learning opportunities!
 ---
 
 <p align="center">
-  Made with ❤️ by Chamod
+  Made with by Chamod
 </p>
