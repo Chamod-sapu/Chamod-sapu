@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=H.M.C.S.B.%20Illangasinghe&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Chamod%20Sapu%20%7C%20Software%20Engineering%20Undergraduate&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=H.M.C.S.B.%20Illangasinghe&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Chamod%20Illangasinghe%20%7C%20Computer%20Engineering%20Undergraduate&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -17,8 +17,7 @@
 ```javascript
 const chamod = {
   name     : "H.M.C.S.B. Illangasinghe",
-  alias    : "Chamod Sapu",
-  role     : "Undergraduate Software Engineer",
+  role     : "Undergraduate Computer Engineer",
   location : "Sri Lanka 🇱🇰",
   focus    : ["Full-Stack Development", "AI & Machine Learning", "Clean Architecture"],
   currently: "Building cool projects & leveling up every day 💡",
@@ -74,9 +73,10 @@ const chamod = {
 
 | 🗂️ Project | 📝 Description | 🔧 Stack | 🔗 Link |
 |------------|---------------|----------|---------|
-| **Project Alpha** | A full-stack web app solving [problem] | React, Node.js, MongoDB | [View →](https://github.com/Chamod-sapu) |
-| **ML Model Project** | Trained a model to predict [outcome] | Python, scikit-learn, Pandas | [View →](https://github.com/Chamod-sapu) |
-| **Project Beta** | [Brief description of what it does] | Java, Spring Boot, MySQL | [View →](https://github.com/Chamod-sapu) |
+| **Crystal-Sand** | A full-stack web app solving [problem] | React, Node.js, MongoDB | [View →](https://github.com/Chamod-sapu/Crystal-Sand) |
+| **Sentiment-Analysis-on-Social-Media** | Trained a model to predict [outcome] | Python, scikit-learn, Pandas | [View →](https://github.com/Chamod-sapu/Sentiment-Analysis-on-Social-Media) |
+| **Cabana-Management** | [React + Vite + Supabase implementation of the Hotel Cabana Management System] | React + Vite + SupabaseL | [View →]([https://github.com/Chamod-sapu](https://github.com/Chamod-sapu/Cabana-Management)) |
+| **KSPA_DATA_ANALYSIS_SYSTEM** | A full-stack web app for KSPA Mill Embilipitiya | React, Node.js, MongoDB | [View →]([https://github.com/Chamod-sapu/Crystal-Sand](https://github.com/RashmikaHarshamal/KSPA_DATA_ANALYSIS_SYSTEM)) |
 
 > 💡 *Update the table above with your actual project names, descriptions, and links!*
 
