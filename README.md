@@ -76,7 +76,7 @@ const chamod = {
 | **Crystal-Sand** | A full-stack web app solving [problem] | React, Node.js, MongoDB | [View →](https://github.com/Chamod-sapu/Crystal-Sand) |
 | **Sentiment-Analysis-on-Social-Media** | Trained a model to predict [outcome] | Python, scikit-learn, Pandas | [View →](https://github.com/Chamod-sapu/Sentiment-Analysis-on-Social-Media) |
 | **Cabana-Management** | [React + Vite + Supabase implementation of the Hotel Cabana Management System] | React + Vite + SupabaseL | [View →](https://github.com/Chamod-sapu/Cabana-Management) |
-| **KSPA_DATA_ANALYSIS_SYSTEM** | A full-stack web app for KSPA Mill Embilipitiya | React, Node.js, MongoDB | [View →]((https://github.com/RashmikaHarshamal/KSPA_DATA_ANALYSIS_SYSTEM)) |
+| **KSPA_DATA_ANALYSIS_SYSTEM** | A full-stack web app for KSPA Mill Embilipitiya | React, Node.js, MongoDB | [View →](https://github.com/RashmikaHarshamal/KSPA_DATA_ANALYSIS_SYSTEM) |
 
 > 💡 *Update the table above with your actual project names, descriptions, and links!*
 
